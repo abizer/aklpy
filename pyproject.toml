@@ -1,6 +1,6 @@
 [project]
 name = "akl"
-version = "2025.3.1"
+version = "2025.3.2"
 description = "akl personal python code"
 readme = "README.md"
 authors = [{ name = "Abizer Lokhandwala", email = "abizer@abizer.me" }]
@@ -25,7 +25,7 @@ asyncio_mode = "auto"
 asyncio_default_fixture_loop_scope = "function"
 
 [tool.bumpver]
-current_version = "2025.3.1"
+current_version = "2025.3.2"
 version_pattern = "YYYY.MM.INC0"
 commit_message = "bump version {old_version} -> {new_version}"
 tag_message = "{new_version}"
