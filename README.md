@@ -1,3 +1,3 @@
 # aklpy
 
-personal python code
+personal python utilities

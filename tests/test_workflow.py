@@ -1,4 +1,4 @@
-from aklpy.workflow import State, Step
+from akl.workflow import State, Step
 
 
 async def test_workflow_simple():

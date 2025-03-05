@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
 #
-# /// script
+# ///
 # dependencies = [
 #   "httpx",
 #   "llm",
 #   "rich",
-#   "aklpy"
+#   "akl"
 # ]
 # ///
 
@@ -19,7 +19,7 @@ import llm
 from pydantic import Field, HttpUrl
 from rich.logging import RichHandler
 
-from aklpy.workflow import State, Step
+from akl.workflow import State, Step
 
 logger = logging.getLogger(__name__)
 
