@@ -3,7 +3,7 @@ revision = 1
 requires-python = ">=3.10"
 
 [[package]]
-name = "akl"
+name = "aklpy"
 version = "2025.3.2"
 source = { editable = "." }
 dependencies = [

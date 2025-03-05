@@ -1,5 +1,5 @@
 [project]
-name = "akl"
+name = "aklpy"
 version = "2025.3.2"
 description = "akl personal python code"
 readme = "README.md"
